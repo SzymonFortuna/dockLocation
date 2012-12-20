@@ -3,3 +3,14 @@ dockLocation
 two simple AppleScripts used to change OS X Dock location in two clicks
 
 used by me when plugging in/out an external display
+
+how to install:
+
+1. open in AppleScript Editor
+2. export as a script to your default scripts folder /Users/username/Library/Scripts
+3. in AppleScript Editor's  preferences toggle the "show scripts menu" switch on
+4. find the AppleScript logo near the AirPort switch on a top bar
+5. use it! :)
+
+to do:
+automatic recognition of plugging the display in/out
